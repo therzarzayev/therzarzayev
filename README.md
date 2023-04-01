@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rza</h1>
-<h3 align="center">Software Developer</h3>
+<h3 align="center">A computer engineering student and junior software developer</h3>
 
 
 ## 🌐 Socials:
