@@ -1,5 +1,3 @@
-<h3 align="center">A computer engineering student and junior software developer</h3>
-
 [![](https://visitcount.itsvg.in/api?id=therzarzayev&icon=3&color=4)](https://visitcount.itsvg.in)
 
 ### 🌐 Socials:
