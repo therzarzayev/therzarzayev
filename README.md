@@ -1,7 +1,7 @@
 [![](https://visitcount.itsvg.in/api?id=therzarzayev&icon=3&color=4)](https://visitcount.itsvg.in)
 
 [![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%203.svg)](https://www.digitalocean.com/?refcode=2e6f768821d9&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
-
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 ### 🌐 Socials:
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="HORIZONTAL" data-vanity="rzarzayev" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://az.linkedin.com/in/rzarzayev?trk=profile-badge">Rza Rzayev</a></div>
 
